@@ -16,7 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### Tech stack
 
-Remix.js, Tailwind, d3.js
+Remix.js, Tailwind
 
 
 
