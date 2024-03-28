@@ -1,5 +1,7 @@
 ## Oxford developement in the last century
 
+This project shows the developement of garages and bathrooms being built in the last century in Oxford.
+
 First, run the development server:
 
 ```bash
